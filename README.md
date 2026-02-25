@@ -8,8 +8,8 @@
 
     <style>
 
-        /* FIX: prevents overflow */
-        * {
+        
+         {
             box-sizing: border-box;
         }
 
